@@ -1,12 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.10.23)  5 DEC 2014 11:21
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.10.23)  5 DEC 2014 11:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**"/Users/ErikWE/Documents/Ber.vet och analys/miniprojekt1/bervet_miniprojekt1/
-proj1rapport.tex"
-
-(/Users/ErikWE/Documents/Ber.vet och analys/miniprojekt1/bervet_miniprojekt1/pr
-oj1rapport.tex
+**proj1rapport.tex
+(./proj1rapport.tex
 LaTeX2e <2011/06/27>
 Babel <3.9f> and hyphenation patterns for 78 languages loaded.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/report.cls
@@ -620,13 +617,13 @@ Package rerunfilecheck Info: File `proj1rapport.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 53.
  ) 
 Here is how much of TeX's memory you used:
- 6305 strings out of 493315
- 90165 string characters out of 6137903
+ 6304 strings out of 493315
+ 89937 string characters out of 6137903
  179773 words of memory out of 5000000
  9688 multiletter control sequences out of 15000+600000
  10232 words of font info for 37 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 29i,6n,32p,328b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,6n,32p,250b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></
