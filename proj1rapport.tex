@@ -9,20 +9,30 @@
 
 \begin{document}
 \maketitle
-\tableofcontents
-\section{Inledning}
+\chapter{Inledning}
 \section{Del 1}
 \subsection{Härledning av ekvationssystem}
 
 $$P_1 = 10$$
 $$P_5 = 0$$
 $$P_6 = 0$$
-$$Q_j = k * L(P_{in} - P_{ut})$$
-$$Q_1 = Q_2 + Q_3$$
-$$Q_3 = Q_4 + Q_6$$
-$$Q_2 + Q_4 = Q_5$$
-
-$$(1) $$
+$$Q_j = k \cdot L(P_{in} - P_{ut})$$
+$$Q_1 = Q_2 + Q_3\;\;(1)$$
+$$Q_3 = Q_4 + Q_6\;\;(2)$$
+$$Q_5 = Q_2 + Q_4\;\;(3)$$
+\newline
+$(1):\;\;\; 0.001\cdot300(P_1-P_2)=(0.001\cdot500(P_2-P_4))+(0.001\cdot500(P_2-P_3))$
+$$\Rightarrow0.3P_1-0.3P_2=0.5P_2-0.5P_4+0.5P_2-0.5P_3$$
+\newline
+$(2):\;\;\; 0.001\cdot500(P_2-P_3)=(0.001\cdot600(P_3-P_4))+(0.001\cdot500(P_3-P_6))$
+$$\Rightarrow0.5P_2-0.5P_3=0.6P_3-0.6P_4+0.5P_3-0.5P_6$$
+$$\Rightarrow0.5P_2-0.5P_3=1.1P_3-0.6P_4-0.5P_6$$
+$$\Rightarrow0.5P_2-1.6P_3+0.6P_4+0.5P_6=0$$
+\newline
+$(3):\;\;\; 0.001\cdot500(P_2-P_4)+0.001\cdot600(P_3-P_4)=(0.001\cdot500(P_4-P_5))$
+$$\Rightarrow0.5P_2-0.5P_4+0.6P_3-0.6P_4=0.5P_4-0.5P_5$$
+$$\Rightarrow0.5P_2+0.6P_3-1.1P_4=0.5P_4-0.5P_5$$
+$$\Rightarrow0.5P_2+0.6P_3-1.6P_4+0.5P_5=0$$
 
 \subsection{körningslogg}
 
