@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.10.23)  5 DEC 2014 11:01
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.10.23)  5 DEC 2014 11:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -440,25 +440,46 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+\Gread@gobject=\count111
+))
+\Gin@req@height=\dimen117
+\Gin@req@width=\dimen118
+)
 (./proj1rapport.aux)
 \openout1 = `proj1rapport.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
 \AtBeginShipoutBox=\box28
-Package hyperref Info: Link coloring OFF on input line 10.
+Package hyperref Info: Link coloring OFF on input line 11.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -466,81 +487,146 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count111
+\c@section@level=\count112
 )
-LaTeX Info: Redefining \ref on input line 10.
-LaTeX Info: Redefining \pageref on input line 10.
-LaTeX Info: Redefining \nameref on input line 10.
+LaTeX Info: Redefining \ref on input line 11.
+LaTeX Info: Redefining \pageref on input line 11.
+LaTeX Info: Redefining \nameref on input line 11.
 
 (./proj1rapport.out) (./proj1rapport.out)
 \@outlinefile=\write3
 \openout3 = `proj1rapport.out'.
 
+
+(/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count113
+\scratchdimen=\dimen119
+\scratchbox=\box29
+\nofMPsegments=\count114
+\nofMParguments=\count115
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count116
+\MPscratchDim=\dimen120
+\MPnumerator=\count117
+\makeMPintoPDFobject=\count118
+\everyMPtoPDFconversion=\toks23
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 12.
+(babel)             in language append on input line 13.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 12.
+(babel)             in language append on input line 13.
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 12.
+(babel)             in language append on input line 13.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 12.
- [1
+(babel)             in language append on input line 13.
+
+[1
 
 {/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Kapitel 1.
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 12.
+(babel)             in language append on input line 13.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 12.
+(babel)             in language append on input line 13.
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 13.
+(babel)             in language append on input line 14.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 13.
+(babel)             in language append on input line 14.
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 14.
+(babel)             in language append on input line 37.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 14.
+(babel)             in language append on input line 37.
+<del1_plot.png, id=35, 562.1pt x 421.575pt>
+File: del1_plot.png Graphic file (type png)
+ <use del1_plot.png>
+Package pdftex.def Info: del1_plot.png used on input line 39.
+(pdftex.def)             Requested size: 562.09863pt x 421.57396pt.
+
+Overfull \hbox (109.13074pt too wide) in paragraph at lines 39--40
+[] 
+ []
+
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 37.
+(babel)             in language append on input line 41.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 37.
+(babel)             in language append on input line 41.
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 39.
+(babel)             in language append on input line 41.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 39.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 41.
-Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 41.
-Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 41.
-Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 41.
-Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 41.
+(babel)             in language append on input line 41.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.41 \end{document}
-                    [1
+l.41 \section
+             {Medeltrycksberäkning} [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
+Package babel Info: Redefining swedish shorthand "|
+(babel)             in language append on input line 41.
+Package babel Info: Redefining swedish shorthand "~
+(babel)             in language append on input line 41.
+Package babel Info: Redefining swedish shorthand "|
+(babel)             in language append on input line 45.
+Package babel Info: Redefining swedish shorthand "~
+(babel)             in language append on input line 45.
+Package babel Info: Redefining swedish shorthand "|
+(babel)             in language append on input line 49.
+Package babel Info: Redefining swedish shorthand "~
+(babel)             in language append on input line 49.
+Package babel Info: Redefining swedish shorthand "|
+(babel)             in language append on input line 49.
+Package babel Info: Redefining swedish shorthand "~
+(babel)             in language append on input line 49.
+ [2 <./del1_plot.png (PNG copy)>]
+Kapitel 2.
+Package babel Info: Redefining swedish shorthand "|
+(babel)             in language append on input line 49.
+Package babel Info: Redefining swedish shorthand "~
+(babel)             in language append on input line 49.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 53.
+Package babel Info: Redefining swedish shorthand "|
+(babel)             in language append on input line 53.
+Package babel Info: Redefining swedish shorthand "~
+(babel)             in language append on input line 53.
+Package babel Info: Redefining swedish shorthand "|
+(babel)             in language append on input line 53.
+Package babel Info: Redefining swedish shorthand "~
+(babel)             in language append on input line 53.
+[3
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 53.
  (./proj1rapport.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 41.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 41.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 53.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 53.
 Package rerunfilecheck Info: File `proj1rapport.out' has not changed.
-(rerunfilecheck)             Checksum: ACE190409F1EBD89E08DCDE9676A664A;337.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 41.
+(rerunfilecheck)             Checksum: 42B3373C216745185FB1870229A40BD0;379.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 53.
  ) 
 Here is how much of TeX's memory you used:
- 5482 strings out of 493315
- 78647 string characters out of 6137903
- 166356 words of memory out of 5000000
- 8900 multiletter control sequences out of 15000+600000
+ 6305 strings out of 493315
+ 90165 string characters out of 6137903
+ 179773 words of memory out of 5000000
+ 9688 multiletter control sequences out of 15000+600000
  10232 words of font info for 37 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 29i,6n,32p,307b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,6n,32p,328b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></
@@ -548,10 +634,10 @@ usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
 r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
 local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loc
 al/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on proj1rapport.pdf (2 pages, 70267 bytes).
+Output written on proj1rapport.pdf (4 pages, 84707 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
- 55 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 80 PDF objects out of 1000 (max. 8388607)
+ 65 compressed objects within 1 object stream
+ 10 named destinations out of 1000 (max. 500000)
+ 54 words of extra memory for PDF output out of 10000 (max. 10000000)
 
